@@ -13,6 +13,8 @@
 
 >Chelsea
 
+## EN Template Code: 
+[https://us.engagingnetworks.app/page/email/message/view?templateId=448183](https://github.com/StefaniaLuisa/clf-marketing-tools/blob/main/Presidents%20Report%20Template_CLF.html)(
 
 ## Examples of Sent emails
 ### February 2026 Presidents Report
